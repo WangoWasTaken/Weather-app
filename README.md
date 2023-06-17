@@ -1,6 +1,6 @@
 # weather app
 
-This is a weather app (not on real data)
+This is a weather app (not using real data)
 I created this small project to revise my Python skills
 
 Currently, I only have a Python file that calculates the temperature (based on logic) and a small guessing game to guess the highest temperature
